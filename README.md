@@ -3,7 +3,6 @@
 <!--
 **AL1ENUM/AL1ENUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m currently learning 
 - 💬 Ask me about Penetration Testing, Software Engineering & Algorithms
 - 📫 How to reach me:
        - [@AL1ENUM](https://twitter.com/AL1ENUM)
@@ -21,9 +20,8 @@
      - [Insomnia](https://www.vulnhub.com/entry/insomnia-1,644/)
      - [Adroit](https://www.vulnhub.com/entry/adroit-101,647/)
 
-- ⚡ Profiles
-     - HackTheBox
-     <img src="http://www.hackthebox.eu/badge/image/314167" alt="Hack The Box">
+<img src="http://www.hackthebox.eu/badge/image/314167" alt="Hack The Box">
+<img src="https://tryhackme-badges.s3.amazonaws.com/aeriko.png" alt="TryHackMe">
   
 
 
