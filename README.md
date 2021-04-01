@@ -13,11 +13,11 @@
 - 👽 My offer in the field of cyber security
   - Contribution Platforms [VulnHub](https://www.vulnhub.com/) & [HackMyVM](https://hackmyvm.eu/)
   - 🚀 Vulnerable by Design Virtual Machines created by me
-     - [Warzone Series](https://www.vulnhub.com/series/warzone,395/)
-     - [Orasi](https://www.vulnhub.com/entry/orasi-1,660/)
-     - [Neobank](https://www.vulnhub.com/entry/neobank-1,642/)
-     - [Insomnia](https://www.vulnhub.com/entry/insomnia-1,644/)
-     - [Adroit](https://www.vulnhub.com/entry/adroit-101,647/)
+     - [Warzone Series](https://www.vulnhub.com/series/warzone,395/) - Client App Exploitation, AES Decryption, Flask, Crypto, JAR Analysis
+     - [Orasi](https://www.vulnhub.com/entry/orasi-1,660/) - ELF Analysis, APK Analysis, SSTI, PHP Restriction bypass
+     - [Neobank](https://www.vulnhub.com/entry/neobank-1,642/) - Unprotected Accounts URL, Brute Force, Google Authenticator, Python Eval(), Database Enum, Sudo
+     - [Insomnia](https://www.vulnhub.com/entry/insomnia-1,644/) - RCE, Writable Permissions, Scheduled Tasks
+     - [Adroit](https://www.vulnhub.com/entry/adroit-101,647/) -  SQL injection, JAR Analysis, JAR reverse shell build
 
 <img src="http://www.hackthebox.eu/badge/image/314167" alt="Hack The Box"> 
 <!---
