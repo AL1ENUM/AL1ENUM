@@ -12,7 +12,7 @@
     - [Github  - Alienum](https://github.com/AL1ENUM)
 
 - 👽 My offer in the field of cyber security
-  - Contribution Platforms (VulnHub)[] & (HackMyVM)[]
+  - Contribution Platforms [VulnHub](https://www.vulnhub.com/) & [HackMyVM](https://hackmyvm.eu/)
   - 🚀 Vulnerable by Design Virtual Machines created by me
      - [Warzone Series](https://www.vulnhub.com/series/warzone,395/)
      - [Orasi](https://www.vulnhub.com/entry/orasi-1,660/)
