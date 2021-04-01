@@ -27,7 +27,8 @@
 
 - ⚡ Profiles
      - HackTheBox
-     <script src="https://www.hackthebox.eu/badge/314167"></script>
+       
+       <script src="https://www.hackthebox.eu/badge/314167"></script>
   
 
 
