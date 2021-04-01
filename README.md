@@ -21,12 +21,8 @@
      - [Adroit](https://www.vulnhub.com/entry/adroit-101,647/)
 
 <img src="http://www.hackthebox.eu/badge/image/314167" alt="Hack The Box">
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/aeriko.png" alt="TryHackMe">
   
-
-
 <!---
-m1tak/m1tak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+m1tak was here
 --->
