@@ -18,6 +18,7 @@
      - [Neobank](https://www.vulnhub.com/entry/neobank-1,642/) - Unprotected Accounts URL, Brute Force, Google Authenticator, Python Eval(), Database Enum, Sudo
      - [Insomnia](https://www.vulnhub.com/entry/insomnia-1,644/) - RCE, Writable Permissions, Scheduled Tasks
      - [Adroit](https://www.vulnhub.com/entry/adroit-101,647/) -  SQL injection, JAR Analysis, JAR reverse shell build
+     - [Flower](https://hackmyvm.eu/machines/machine.php?vm=Flower) - RCE, Python Library Hijacking, Sudo
 
 <img src="aeriko.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/314167" alt="Hack The Box"> 
 <!---
